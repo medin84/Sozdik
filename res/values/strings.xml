@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Dictionary (ru|kk)</string>
+
+    <string name="btn_tr_reverse">ru/kk</string>
+    <string name="btn_translate">»</string>
+    <string name="btn_clear">x</string>
+
+    <string name="et_tr_edittext_hint">Enter text to translate</string>
+
+    <string name="msg_no_internet">No connection to the Internet</string>
+
+    <string name="error_exception">Sorry, an error occurred</string>
+
+    <string name="menu_exit_app">Exit</string>
+
+</resources>
